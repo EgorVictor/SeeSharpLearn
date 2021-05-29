@@ -1,5 +1,4 @@
 # SeeSharpLearn
 
-# C#基础教程
-## C#中的数字
-## 列表集合
+# C#基础教程学习
+https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/pattern-matching
