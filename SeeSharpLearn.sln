@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceInCSharp", "Interf
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericClassInCSharp", "GenericClassInCSharp\GenericClassInCSharp.csproj", "{A9C036E8-084E-4740-B17C-AED39AB1C371}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundamentals", "Fundamentals\Fundamentals.csproj", "{66FB2C50-526C-467C-8110-B572CF43A800}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fundamentals", "Fundamentals\Fundamentals.csproj", "{66FB2C50-526C-467C-8110-B572CF43A800}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewFunction", "NewFunction\NewFunction.csproj", "{DCB9149B-8D2C-4191-B9F5-4DB0FA889946}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{66FB2C50-526C-467C-8110-B572CF43A800}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66FB2C50-526C-467C-8110-B572CF43A800}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66FB2C50-526C-467C-8110-B572CF43A800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCB9149B-8D2C-4191-B9F5-4DB0FA889946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB9149B-8D2C-4191-B9F5-4DB0FA889946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB9149B-8D2C-4191-B9F5-4DB0FA889946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB9149B-8D2C-4191-B9F5-4DB0FA889946}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
