@@ -8,6 +8,7 @@ using static ConsoleLinq.PlayingCards;
 //编写扩展方法以将我们自己的自定义功能添加到 LINQ 查询
 //在我们的代码中定位我们的 LINQ 查询可能遇到性能问题的区域，例如速度下降
 //关于LINQ查询的懒惰和急切的评估及其对查询性能的影响
+//https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/working-with-linq
 namespace ConsoleLinq
 {
     class Program
