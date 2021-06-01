@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewFunction", "NewFunction\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableInCSharp", "NullableInCSharp\NullableInCSharp.csproj", "{C80DDEA4-7D06-4477-AB2B-AC3B155CE7D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeleprompterConsole", "TeleprompterConsole\TeleprompterConsole.csproj", "{AED82411-4434-4F6F-A931-21CFE39C6B6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeleprompterConsole", "TeleprompterConsole\TeleprompterConsole.csproj", "{AED82411-4434-4F6F-A931-21CFE39C6B6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIClient", "WebAPIClient\WebAPIClient.csproj", "{AC72F877-BC42-474B-9DD4-06355412721D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{AED82411-4434-4F6F-A931-21CFE39C6B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AED82411-4434-4F6F-A931-21CFE39C6B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AED82411-4434-4F6F-A931-21CFE39C6B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC72F877-BC42-474B-9DD4-06355412721D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC72F877-BC42-474B-9DD4-06355412721D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC72F877-BC42-474B-9DD4-06355412721D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC72F877-BC42-474B-9DD4-06355412721D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
